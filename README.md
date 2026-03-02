@@ -1,6 +1,3 @@
-Here is a `README.md` file for your project:
-
-```markdown
 # Ip2tools
 
 `Ip2tools` is a Python script that allows you to fetch the geolocation of a website's IP address by using its URL. The tool retrieves the IP address, its corresponding geolocation (latitude and longitude), and generates a Google Maps link to view the location.
@@ -88,15 +85,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 - [IPinfo](https://ipinfo.io/) for the geolocation API.
 - [pyfiglet](https://github.com/pwaller/pyfiglet) for generating ASCII art.
 - [tqdm](https://github.com/tqdm/tqdm) for the progress bar functionality.
-```
 
-### Explanation:
-
-- **Project Overview**: Describes what the project does.
-- **Features**: Lists the key functionalities of the tool.
-- **Installation**: Instructions on setting up the environment and installing dependencies.
-- **Usage**: Step-by-step guide for using the script.
-- **Troubleshooting**: Provides solutions to common issues like invalid URLs or missing API keys.
-- **License and Acknowledgments**: Includes basic licensing and credits.
-
-You can place this content in a file named `README.md` in the root directory of your project. Let me know if you need further customization!
